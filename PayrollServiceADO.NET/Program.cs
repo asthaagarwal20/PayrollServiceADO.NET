@@ -13,7 +13,7 @@ namespace PayrollServiceADO.NET
         {
             foreach (var data in employees)
             {
-                Console.WriteLine(data.name + " " + data.start_Date);
+                Console.WriteLine(data.name + " " + data.phone);
             }
         }
         static void Main(string[] args)
