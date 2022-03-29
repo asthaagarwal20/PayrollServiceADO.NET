@@ -48,6 +48,7 @@ namespace PayrollServiceADO.NET
 
                     ); ;
             }
+              Display(EmpList);
 
         }
 
